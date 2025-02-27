@@ -1,6 +1,7 @@
 package Strings;
 
-public class CheckStringIsPanlindrome {
+public class
+CheckStringIsPanlindrome {
     public static void main(String[] args) {
   String str="Madam";
       // char a[]=str.toCharArray();
