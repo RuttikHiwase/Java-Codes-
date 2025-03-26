@@ -37,6 +37,13 @@ public class A5_Number_Of_Time_Sorted_Array_Is_Rotated {
          */
 
     }
+
+    public static class Index_Of_First_1_In_Binary_Sorted_Array {
+        public static void main(String[] args) {
+
+        }
+
+    }
 }
 /*
 Note:
